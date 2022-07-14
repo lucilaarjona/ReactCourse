@@ -1,0 +1,36 @@
+{
+    "workbench.activityBar.visible": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "SynthWave '84",
+    "workbench.startupEditor": "none",
+    "editor.fontFamily": "'CaskaydiaCove NF', Consolas, 'Courier New', monospace",
+    "editor.fontSize": 16,
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "editor.fontLigatures": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "bracket-pair-colorizer-2.colors": [
+        "#fafafa",
+        "#f300ff",
+        "#F7C244",
+        "#F07850",
+        "#9CDD29",
+        "#0098FA"
+    ],
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.enableSmartCommit": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
