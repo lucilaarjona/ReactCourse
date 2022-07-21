@@ -18,8 +18,8 @@ document.write(resultado);
 //Forma mejorada
 
 //const sumar = (a, b) => {
-/*Aca uso una FatArrow function, en una constante evitando asi ataques xs*/
-//return a + b;
+  /*Aca uso una FatArrow function, en una constante evitando asi ataques xs*/
+  //return a + b;
 //};
 /*
 const resultado = sumar(5, 4);

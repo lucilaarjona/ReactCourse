@@ -11,7 +11,7 @@
 //     cuenta < 0 ? "No tenes saldo chango" : "Pagate el pancho chango";
 // console.write(mensaje);
 
-// //operador ternario de una sola 'verdad'
+// //operador ternario de una sola 'verdad' 
 // const mensaje1;
 // if(true) mensaje1 = "hola";
 // console.write(mensaje1)

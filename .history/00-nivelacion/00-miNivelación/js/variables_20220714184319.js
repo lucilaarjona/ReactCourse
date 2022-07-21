@@ -1,21 +1,19 @@
-/* Var, Let, const */
+// Var, Let, const
 
 /* 
     var: todo navegador lee primero los var, 
     pero no la asignacion a posterior, ademas que es 
     vulnerable a ser modificado
 */
-/*
- var nombre = "lucila";
- nombre = "Maria";
- document.write(nombre);
-*/
+// var nombre = "Fede";
+// document.write(nombre);
+
 // saludo;
 // saludo();
 // var saludo = function () {
 //   document.write(`Hola ${nombre}`);
 // };
-/*
+ /*
     Let y const: son dos variables que siguen el flujo 
     de ejecucion 
     let: evita la redefinicion de una misma variable, 

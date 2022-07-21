@@ -5,11 +5,11 @@
     pero no la asignacion a posterior, ademas que es 
     vulnerable a ser modificado
 */
-/*
- var nombre = "lucila";
- nombre = "Maria";
- document.write(nombre);
-*/
+
+var nombre = "lucila";
+nombre
+document.write(nombre);
+
 // saludo;
 // saludo();
 // var saludo = function () {

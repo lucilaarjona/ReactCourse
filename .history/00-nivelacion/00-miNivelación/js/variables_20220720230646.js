@@ -6,7 +6,7 @@
     vulnerable a ser modificado
 */
 /*
- var nombre = "lucila";
+     var nombre = "lucila";
  nombre = "Maria";
  document.write(nombre);
 */

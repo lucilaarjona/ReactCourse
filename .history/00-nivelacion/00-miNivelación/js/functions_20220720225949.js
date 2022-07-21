@@ -18,8 +18,8 @@ document.write(resultado);
 //Forma mejorada
 
 //const sumar = (a, b) => {
-/*Aca uso una FatArrow function, en una constante evitando asi ataques xs*/
-//return a + b;
+  /*Aca uso una FatArrow function, en una constante evitando asi ataques xs*/
+  //return a + b;
 //};
 /*
 const resultado = sumar(5, 4);
@@ -29,4 +29,3 @@ const sumar = (a, b) => a + b;
 /*Aca mejoramos la FarArrow, que debido a que solo contiene una instruccion, podemos ahorrarnos las llaves y el retun*/
 /* const resultado = sumar(5, 4);
 console.write(resultado);
-*/
