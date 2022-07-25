@@ -1,6 +1,6 @@
 /* Var, Let, const */
 
-/* 
+/*
     var: todo navegador lee primero los var, 
     pero no la asignacion a posterior, ademas que es 
     vulnerable a ser modificado
@@ -17,7 +17,7 @@
 // };
 /*
     Let y const: son dos variables que siguen el flujo 
-    de ejecucion 
+    de ejecucion
     let: evita la redefinicion de una misma variable, 
     evitamos cualquier alcance a nivel de scope, 
     no se puede inicializar hasta que haya sido definida,

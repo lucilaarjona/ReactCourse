@@ -20,18 +20,21 @@ console.log(Pelota);
 /*
 const Usuario = {
   name: "Lucila",
-  edad: 20,
+  edad: 25,
   email: "lucilaarjona09@gmail.com",
 };
 document.write(Usuario.name);
 */
 
 /*
-const { name, email } = {
-  name: "Yirsis",
-  edad: 20,
+const { name, edad,email } = {
+  name: "Lucila",
+  edad: 25,
   email: "mail@mail.com",
 };
+
+document.write("<p>" + edad + "</p>");
 document.write("<p>" + name + "</p>");
 document.write("<p>" + email + "</p>");
+
 */

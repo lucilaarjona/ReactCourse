@@ -1,10 +1,27 @@
-const [, usario2, ,] = ["Pepe", "Juan", "Lucia", "Maria"];
+const numeros = [1, 2, 3, 4];
+/*
+document.write("<ul>")
+for (numero in numeros) {
+    document.write("<li>");
+    document.write(numero);
+    document.write("</li>");
+}
+document.write("</ul>")
+*/
 
-document.write(usario2);
-
-// const numeros = [1, 2, 3, 4];
-// document.write("<ul>");
-// numeros.map((numero) => numero + 1);
-// document.write("</ul>");
-// document.write(numeros);
-// document.write(nuevo);
+/*
+document.write("<ul>")
+// const nuevo = numeros.map((numero, i ) => { document.write("<li>"+ numero +"</li>")})
+// const nuevo = numeros.map((numero) => numero + 1);
+document.write("</ul>")
+document.write(numeros);
+document.write(nuevo);
+*/
+/*
+const usuarios = ["Pepe", "Juan", "Lucia", "Maria"];
+document.write(usuarios);
+*/
+/*
+const [, , ,usuarios1] = ["Pepe", "Juan", "Lucia", "Maria"];
+document.write(usuarios1);
+*/
