@@ -1,12 +1,12 @@
-const evaluar = () => {
-  const edad = prompt("Cual es tu edad?");
+// const evaluar = () => {
+//   const edad = prompt("Cual es tu edad?");
 
-  if (edad < 18) {
-    alert("Menor de edad");
-    return;
-  }
+//   if (edad < 18) {
+//     alert("Menor de edad");
+//     return;
+//   }
 
-  alert("Mayor de edad");
-};
+//   alert("Mayor de edad");
+// };
 
-setTimeout(evaluar, 2000);
+// setTimeout(evaluar, 2000);
